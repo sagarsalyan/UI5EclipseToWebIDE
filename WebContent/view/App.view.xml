@@ -1,0 +1,7 @@
+<core:View xmlns:core="sap.ui.core" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m"
+		controllerName="com.demopro.view.App"
+		displayBlock="true">
+	<App id="appId">
+		
+	</App>
+</core:View>
